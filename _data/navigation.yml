@@ -1,22 +1,11 @@
-# main links links
+# main links
 main:
-  - title: "Publications"
+  - title: "Selected Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Patents Granted"
+    url: /patents/    
+    
+  - title: "Full CV"
+    url: "https://vbursztyn.github.io/files/Victor_Bursztyn_CV.pdf"
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
