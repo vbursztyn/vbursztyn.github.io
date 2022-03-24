@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Victor S. Bursztyn"
   avatar           : "victor_bursztyn_small.png"
-  bio              : "Research Scientist in Artificial Intelligence specialized in Natural Language Processing.<p style='line-height:30%;'><br><br></p>PhD Candidate at Northwestern University."
+  bio              : "Research Scientist in Artificial Intelligence specialized in Natural Language Processing.<p class='author__bio'>PhD Candidate at Northwestern University.</p>"
   location         : "Chicago"
   employer         :
   pubmed           : 
