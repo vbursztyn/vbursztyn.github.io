@@ -33,4 +33,4 @@ Beyond Work
 ------
 As a Brazilian graduate student in the United States, I am always happy to participate in initiatives to improve access of underrepresented communities to the Computer Science field. At Northwestern, I was among the students who co-founded [Latin@CS](https://sites.northwestern.edu/hispanicsincs/), an organization for this very purpose focused on the LatinX community.
 
-I am married to Vanessa, a graphic designer also from Rio de Janeiro, Brazil. As low-budget foodies, we love to spread the word about the wholesomeness of tropical fruits in the hope of increasing [Cashew](https://en.wikipedia.org/wiki/Cashew) importation --- the fruit, not the nut! --- in the US :)
+I am married to Vanessa, a graphic designer also from Rio de Janeiro, Brazil. As low-budget foodies, we love to spread the word about the wholesomeness of tropical fruits in the hope of increasing [Cashew](https://en.wikipedia.org/wiki/Cashew) import --- the fruit, not the nut! --- in the US :)
