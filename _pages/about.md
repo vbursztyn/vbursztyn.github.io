@@ -12,12 +12,12 @@ My name is Victor S. Bursztyn. I am a final-year PhD Candidate in Artificial Int
 
 What I Expect for the Future
 ------
-My research is broadly focused on the computational modeling of human conversations, lying mainly in the subfield of Natural Language Processing but also interfacing with Human-Computer Interaction, Recommender Systems, Information Retrieval, and Machine Learning. I am passionate about the roles that conversational modeling will play in the next generation of intelligent systems, which I identify as at least two:
+My research is broadly focused on the computational modeling of human conversations, lying mainly in the subfield of Natural Language Processing but also interfacing with Human-Computer Interaction, Recommender Systems, Information Retrieval, and Machine Learning. I am passionate about the roles that conversation modeling will play in the next generation of intelligent systems, which I identify as at least two:
 
 1. Conversations will likely improve human-computer interactions for individual users. For example, a user who can give conversational feedback on their search results will be able to avoid multiple rounds of searching from scratch, trying to guess which combination of keywords will lead to the desired results;
-2. Conversations will eventually facilitate collaborations involving multiple parties. For example, when an editing software can understand a sequence of comments made by co-workers on a particular work, it will be able to suggest changes that will assist in the development of such work. Once we reach this stage, users will have an additional incentive to exchange feedback on digital spaces, consolidating the importance of conversational modeling in AI-powered software.
+2. Conversations will eventually facilitate collaborations involving multiple parties. For example, when an editing software can understand a sequence of comments made by co-workers on a particular work, it will be able to suggest changes that will assist in the development of such work. Once we reach this stage, users will have an additional incentive to exchange feedback on digital spaces, consolidating the importance of conversation modeling in AI-powered software.
 
-This vision has guided me to investigate the first role through multiple angles in the past few years, and it motivates me to seek employment in companies that are likely to view conversational modeling as strategic in the years to come.
+This vision has guided me to investigate the first role through multiple angles in the past few years, and it motivates me to seek employment in companies that are likely to view conversation modeling as strategic in the years to come.
 
 How I Have Worked Towards It
 ------
