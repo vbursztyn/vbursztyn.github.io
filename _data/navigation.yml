@@ -6,6 +6,6 @@ main:
   - title: "Patents Granted"
     url: /patents/    
     
-  - title: "Full CV"
-    url: "https://vbursztyn.github.io/files/Victor_Bursztyn_CV.pdf"
+  # - title: "Full CV"
+  #   url: "https://vbursztyn.github.io/files/Victor_Bursztyn_CV.pdf"
 
